@@ -3,8 +3,7 @@
 Use this script to automatically claim daily freedogs points!
 
 # Dependencies
-
-`pip install requests`
+    pip install requests
 
 # Must to do before starting!
 
