@@ -117,13 +117,14 @@ if __name__ == "__main__":
     
     # Add your session links here
     session_links = [
-        "https://app.freedogs.bot/#tgWebAppData=query_id%3DAAGR_EQxAgAAAJH8RDGK************************************************", #add your own complete session links here
-        "https://app.freedogs.bot/#tgWebAppData=query_id%3DAAGR_EQxAgAAAJH8RDGK************************************************", #add your own complete session links here
-        "https://app.freedogs.bot/#tgWebAppData=query_id%3DAAGR_EQxAgAAAJH8RDGK************************************************", #add your own complete session links here
-        "https://app.freedogs.bot/#tgWebAppData=query_id%3DAAGR_EQxAgAAAJH8RDGK************************************************", #add your own complete session links here
-        "https://app.freedogs.bot/#tgWebAppData=query_id%3DAAGR_EQxAgAAAJH8RDGK************************************************", #add your own complete session links here
-        "https://app.freedogs.bot/#tgWebAppData=query_id%3DAAGR_EQxAgAAAJH8RDGK************************************************", #add your own complete session links here
-        "https://app.freedogs.bot/#tgWebAppData=query_id%3DAAGR_EQxAgAAAJH8RDGK************************************************", #add your own complete session links here
+          
+         "https://app.freedogs.bot/#tgWebAppData=query_id%3DAAGR_EQxAgAAAJH8RDGK", #add your own complete session links here
+        "https://app.freedogs.bot/#tgWebAppData=query_id%3DAAGR_EQxAgAAAJH8RDGK", #add your own complete session links here
+        "https://app.freedogs.bot/#tgWebAppData=query_id%3DAAGR_EQxAgAAAJH8RDGK", #add your own complete session links here
+        "https://app.freedogs.bot/#tgWebAppData=query_id%3DAAGR_EQxAgAAAJH8RDGK", #add your own complete session links here
+        "https://app.freedogs.bot/#tgWebAppData=query_id%3DAAGR_EQxAgAAAJH8RDGK", #add your own complete session links here
+        "https://app.freedogs.bot/#tgWebAppData=query_id%3DAAGR_EQxAgAAAJH8RDGK", #add your own complete session links here
+        "https://app.freedogs.bot/#tgWebAppData=query_id%3DAAGR_EQxAgAAAJH8RDGK", #add your own complete session links here
           
         # Add session links here as before
     ]
