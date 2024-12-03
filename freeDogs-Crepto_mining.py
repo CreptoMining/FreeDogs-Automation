@@ -6,15 +6,15 @@ import time
 # Display custom ASCII banner
 def display_banner():
     banner = """
-╔══════════════════════════════════╗
-║                                  ║
-║        CM Scripts BOT          ║
-║       AUTOMATION EXPERT          ║
-║                                  ║
-║   FAST - RELIABLE - SECURE       ║
-║   MULTI-SESSION SUPPORTED        ║
-║                                  ║
-╚══════════════════════════════════╝
+╔═══ ═════ ══════ ══════ ═════ ═══════ ╗
+║                                      ║
+║             CM Scripts BOT          ║
+║            AUTOMATION EXPERT        ║
+║   Powered by @crepto_mining Channel                                 ║
+║         FAST - RELIABLE - SECURE     ║
+║         MULTI-SESSION SUPPORTED      ║
+║                                      ║
+╚═════ ════ ═════ ════ ════ ═════ ════ ╝
 """
     print(banner)
     print("\nStarting the coin collection process...\n")
